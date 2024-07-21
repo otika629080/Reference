@@ -5,6 +5,7 @@
 ### 基礎
 
 [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners/tree/main)
+- 各セクション毎のtranslations/README.ja.mdに日本語訳あり
 
 ### 実践
 
