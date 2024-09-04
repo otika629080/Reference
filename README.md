@@ -18,8 +18,4 @@
 ## クリーンコード
 [clean-code-javascript](https://github.com/mitsuruog/clean-code-javascript/)
 
-## 関数型プログラミング
 
-[Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS)
-
-[Mostly Adequate Guide](https://mostly-adequate.gitbook.io/mostly-adequate-guide)
